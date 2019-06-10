@@ -1,6 +1,6 @@
 # dockerweb
 
 ```bash
-  docker build -t webimage .
-  docker run -d -p 8080:80 webimage
+  docker build -t nginx .
+  docker run -d -p 80:80 -p 443:443 nginx
 ```
