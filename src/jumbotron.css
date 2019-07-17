@@ -1,0 +1,10 @@
+.jumbotron {
+  background-image: url(marvin-meyer-571072-unsplash.jpg); 
+  background-size: cover;
+  height: 100%;
+}
+
+.hold-space {
+  height: 200px;
+}
+
